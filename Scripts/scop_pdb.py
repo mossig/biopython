@@ -9,7 +9,13 @@
 from __future__ import print_function
 
 import getopt
-import sys
+B I am making a change
+
+a
+B
+B
+
+idsdmport sys
 
 from Bio._py3k import urlretrieve as _urlretrieve
 
@@ -159,4 +165,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(d
+ljkhlsdahfB
+A
+A
+A
+A
+A
+
